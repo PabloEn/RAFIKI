@@ -1,4 +1,5 @@
 # RAFIKI
+my bot on kommunicate.io(https://www.kommunicate.io/livechat-demo?appId=f101c515c9d39eb58db82cd4add263d2&botIds=rafiki-agent-a2dxi&assignee=rafiki-agent-a2dxi)
 school project Rafiki bot
 1. Install a virtual environment by runnning the following
 ```
